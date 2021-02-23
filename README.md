@@ -28,6 +28,8 @@ Please pay attention on details. This is related to `src/routes/zoomIntegrationR
 
 To run this project successfuly you will need a mongoDB instance running, its URI have to be set on `src/config` as well. You can use either atlas or a local service of mongoDB. This is used just to log and take control over all the records we will be generating.
 
+**_NOTE:_** _To create users and meetings that belong to them, you must have a paid zoom account or ask for a developer account from zoom support; if you don't have any of them, you will only be able to create meetings for your zoom user_
+
 ### Last but not least
 
 This is a complement of other front-end repos I will add to show how to integrate this with the frameworks in the list bellow:
